@@ -1044,7 +1044,7 @@
     (pin "4" (uuid e21fcd3b-cce6-410b-bc2e-de218db1ee22))
     (pin "8" (uuid 971ed543-ff2a-40f1-b27f-7cb95315b3c2))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "U1") (unit 3)
         )
@@ -1073,7 +1073,7 @@
     (pin "T" (uuid 16a2a787-d699-4b91-b911-b185a771c165))
     (pin "TN" (uuid 7a81c20a-9d43-4085-930b-5b2474754ac4))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "J3") (unit 1)
         )
@@ -1087,7 +1087,7 @@
     (property "Reference" "R8" (at 165.735 40.64 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 165.735 43.18 90)
+    (property "Value" "15k" (at 165.735 43.18 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 165.735 43.942 90)
@@ -1099,7 +1099,7 @@
     (pin "1" (uuid b7e66389-bc02-4316-b3a5-be4cc1ca3577))
     (pin "2" (uuid 2b6efcab-4736-446d-92a3-e5b15657fbd5))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "R8") (unit 1)
         )
@@ -1134,7 +1134,7 @@
     (pin "4" (uuid 82d58cf9-4fb1-4d69-9c18-061bddc2545c))
     (pin "8" (uuid c9f94399-bee8-42de-ba1b-181039687d67))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "U1") (unit 2)
         )
@@ -1148,7 +1148,7 @@
     (property "Reference" "R7" (at 150.495 41.275 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 150.495 43.815 90)
+    (property "Value" "13k" (at 150.495 43.815 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 150.495 47.498 90)
@@ -1160,7 +1160,7 @@
     (pin "1" (uuid 2910fb3c-8f61-44c2-a709-ee9aba6f6fbf))
     (pin "2" (uuid 62e873b8-58c2-48b5-ac9e-f85fee99cc25))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "R7") (unit 1)
         )
@@ -1174,7 +1174,7 @@
     (property "Reference" "R4" (at 104.14 41.275 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 104.14 43.815 90)
+    (property "Value" "15k" (at 104.14 43.815 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 104.14 44.577 90)
@@ -1186,7 +1186,7 @@
     (pin "1" (uuid 9c4ffa2c-9285-443b-a65d-888b4e08c9c9))
     (pin "2" (uuid 82c8bb51-0865-4950-9675-6dacde1b4bf9))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "R4") (unit 1)
         )
@@ -1211,7 +1211,7 @@
     )
     (pin "1" (uuid 7598981b-da5a-4b15-8106-16eb175e3d16))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "#PWR06") (unit 1)
         )
@@ -1225,7 +1225,7 @@
     (property "Reference" "R1" (at 88.265 22.225 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 88.265 24.765 90)
+    (property "Value" "10k" (at 88.265 24.765 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 88.265 28.448 90)
@@ -1237,7 +1237,7 @@
     (pin "1" (uuid e23db4d9-ab9c-4142-b539-5864f459aa9a))
     (pin "2" (uuid 96e19161-5c51-40df-a9d8-08b83d7362c9))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "R1") (unit 1)
         )
@@ -1251,7 +1251,7 @@
     (property "Reference" "R3" (at 88.265 41.91 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 88.265 44.45 90)
+    (property "Value" "13k" (at 88.265 44.45 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 88.265 48.133 90)
@@ -1263,7 +1263,7 @@
     (pin "1" (uuid d9853170-04ad-47f9-8b1d-3d7e81d76244))
     (pin "2" (uuid 5fcb578f-48fd-4d7b-a87e-03ff7436b1c6))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "R3") (unit 1)
         )
@@ -1277,7 +1277,7 @@
     (property "Reference" "R6" (at 150.495 27.94 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 150.495 30.48 90)
+    (property "Value" "33k" (at 150.495 30.48 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 150.495 34.163 90)
@@ -1289,7 +1289,7 @@
     (pin "1" (uuid ff423845-dcb1-455f-878e-69f376f4e541))
     (pin "2" (uuid 81c66240-0eb7-45e4-a9fc-8f128ebd7fc6))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "R6") (unit 1)
         )
@@ -1314,7 +1314,7 @@
     )
     (pin "1" (uuid 2ba0a586-da5a-4fb9-b419-ad3e00812019))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "#PWR04") (unit 1)
         )
@@ -1339,7 +1339,7 @@
     )
     (pin "1" (uuid 3b826dea-4d30-421a-b18f-72e8796a289d))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "#PWR08") (unit 1)
         )
@@ -1372,7 +1372,7 @@
     (pin "5" (uuid 3f9c6efb-9a8a-403d-b7f7-1d4f6d933212))
     (pin "6" (uuid e1c94557-0f38-458d-bdda-ca1256c345b2))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "SW1") (unit 1)
         )
@@ -1397,7 +1397,7 @@
     )
     (pin "1" (uuid 7a39d022-721b-447e-9771-814dbdea272d))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "#PWR03") (unit 1)
         )
@@ -1411,7 +1411,7 @@
     (property "Reference" "R2" (at 88.265 28.575 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 88.265 31.115 90)
+    (property "Value" "33k" (at 88.265 31.115 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 88.265 34.798 90)
@@ -1423,7 +1423,7 @@
     (pin "1" (uuid 08c7f2f1-4685-4ac7-a252-cfb476ae0a12))
     (pin "2" (uuid 5a8d1318-82e5-460e-9b70-63c7b83de258))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "R2") (unit 1)
         )
@@ -1448,7 +1448,7 @@
     )
     (pin "1" (uuid 4d07307f-d0e8-46c9-a0fc-3aa90b12bcad))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "#PWR02") (unit 1)
         )
@@ -1481,7 +1481,7 @@
     (pin "5" (uuid a7f90964-cc10-4f1f-b7ae-82eb6ac5d962))
     (pin "6" (uuid 74ac6a39-acd0-48fc-bd43-158dfc38c704))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "SW2") (unit 1)
         )
@@ -1495,7 +1495,7 @@
     (property "Reference" "R5" (at 150.495 21.59 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 150.495 24.13 90)
+    (property "Value" "10k" (at 150.495 24.13 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 150.495 27.813 90)
@@ -1507,7 +1507,7 @@
     (pin "1" (uuid 67b7a2c0-9ecf-4f90-81b3-273f09365d18))
     (pin "2" (uuid 64c09e4b-6169-4099-92d1-9438270814ac))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "R5") (unit 1)
         )
@@ -1532,7 +1532,7 @@
     )
     (pin "1" (uuid 8dae98bf-ac19-498d-a518-1118fb0aea4b))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "#PWR07") (unit 1)
         )
@@ -1557,7 +1557,7 @@
     )
     (pin "1" (uuid 89eea69e-ec17-4bd6-946f-d2ae5a45ced0))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "#PWR09") (unit 1)
         )
@@ -1582,7 +1582,7 @@
     )
     (pin "1" (uuid 858f804d-5699-49a3-a23f-2ce6471084c3))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "#PWR05") (unit 1)
         )
@@ -1615,7 +1615,7 @@
     (pin "8" (uuid f966bedd-a873-447e-aebc-6259255fbc78))
     (pin "9" (uuid 12c963cd-cd7b-4859-a9e4-788b2bfd217e))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "J1") (unit 1)
         )
@@ -1650,7 +1650,7 @@
     (pin "4" (uuid b65c0411-00d4-4aed-a76d-620fe1517eab))
     (pin "8" (uuid 537e859a-6b35-4786-a242-f7c1a89b5ca3))
     (instances
-      (project "VectorscopeINstereo"
+      (project "VectorScopeMusicAddon"
         (path "/af256697-7c61-4a78-86ce-ea788b0b3065"
           (reference "U1") (unit 1)
         )
