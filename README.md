@@ -6,3 +6,5 @@ There's a switch to flip the x and y-axis. Due to the displays coordinate system
 
 mainly copied schematics from here:
 https://electronics.stackexchange.com/questions/37095/level-shifting-a-2-5v-signal-to-0-5v
+
+![Screenshot of KiCad render](https://github.com/davedarko/VectorScopeMusicAddon/blob/main/src/render.png?raw=true)
