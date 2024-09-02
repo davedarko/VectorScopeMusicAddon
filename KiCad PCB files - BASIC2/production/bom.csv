@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x09_P2.54mm_Vertical,1,Conn_01x09_Socket,
+J3,Jack_3.5mm_CUI_SJ1-3525N_Horizontal,1,AudioJack3_SwitchTR,
+"R1, R5",0603,2,10k,
+"R2, R6",0603,2,33k,
+"R3, R7",0603,2,13k,
+"R4, R8",0603,2,15k,
+SW2,SW_DPDT_CK_JS202011JCQN,1,SW_Push_DPDT,C221665
+U1,SOIC-8_3.9x4.9mm_P1.27mm,1,OPA2192,C110074
