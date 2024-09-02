@@ -9,9 +9,8 @@ There's an easy fix for the vectorscope having an inverted y-axis, making the os
 See request here https://github.com/Hack-a-Day/Vectorscope/pull/15
 
 ## BASIC-2
-There's a wonderful case design for the badge done by @softegg. To fit into the badge better, I have designed another version with no parts on the left side of the pin header and mounting holes to create a small 3D printed cover to fit the theme better.
+There's a wonderful case design for the badge done by @softegg. To fit into the badge better, I have designed another version with no parts on the left side of the pin header and mounting holes to create a small 3D printed cover to fit the theme better. With the known fix for the inverted y-axis, I have removed the switch to swap x and y axis now.
 https://github.com/softegg/supercon-2023-badge-enclosure/
-
 
 ## credits
 - Hackaday's badge repo https://github.com/Hack-a-Day/Vectorscope
