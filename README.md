@@ -17,7 +17,7 @@ There's a wonderful case design for the badge done by @softegg. To fit into the 
 
 https://github.com/softegg/supercon-2023-badge-enclosure/
 
-![Screenshot of KiCad render](https://github.com/davedarko/VectorScopeMusicAddon/blob/main/src/renderBasic2.png?raw=true)
+![Screenshot of KiCad render](https://github.com/davedarko/VectorScopeMusicAddon/blob/main/src/RenderBasic2.png?raw=true)
 
 ## credits
 - Hackaday's badge repo https://github.com/Hack-a-Day/Vectorscope
